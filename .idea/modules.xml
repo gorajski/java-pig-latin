@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-pig-latin.iml" filepath="$PROJECT_DIR$/.idea/modules/java-pig-latin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-pig-latin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-pig-latin_main.iml" group="java-pig-latin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-pig-latin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-pig-latin_test.iml" group="java-pig-latin" />
     </modules>
   </component>
 </project>
